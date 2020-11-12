@@ -9,6 +9,8 @@
 ##Results
 
 June records the higher min, max, mean temperature and smaller standard deviation so that temperature points are less scatter than in December.
+[June_result](https://github.com/Yunaka1269/surfs_up/blob/main/New%20folder/june.PNG)
+[December_result](https://github.com/Yunaka1269/surfs_up/blob/main/New%20folder/dec.PNG)
 
 - Mean temperature: June 74.94 Dec 71.04
 
@@ -21,6 +23,11 @@ June records the higher min, max, mean temperature and smaller standard deviatio
 ###Summary
 
 Precipitation score comparison shows that the lower temperature, the highger in precipitation score in June. December shows that the precipitation scores are high near the mean temperature.
+[June_result](https://github.com/Yunaka1269/surfs_up/blob/main/New%20folder/june.PNG)
+[December_result](https://github.com/Yunaka1269/surfs_up/blob/main/New%20folder/dec.PNG)
+
+[June_temperature_precipitation_scatter](https://github.com/Yunaka1269/surfs_up/blob/main/New%20folder/June_temp_prcp.png)
+[December_temperature_precipitation_scatter](https://github.com/Yunaka1269/surfs_up/blob/main/New%20folder/dec_temp_prcp.png)
 
 - Mean: June 0.14 Dec 0.22
 
@@ -32,13 +39,13 @@ Precipitation score comparison shows that the lower temperature, the highger in 
 
 Most active stations and counts for June and December and their min, max, and avarage temperature. 
 
-June: 
+June: [station_june_count](https://github.com/Yunaka1269/surfs_up/blob/main/New%20folder/station_june.PNG)
 
 - USC00519397, 236
 - USC00519281, 236
 - USC00513117, 236
 
-December:
+December: [station_december_count(https://github.com/Yunaka1269/surfs_up/blob/main/New%20folder/station_dec.PNG)
 
 - USC00519281, 217
 - USC00513117, 216
