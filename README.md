@@ -42,7 +42,7 @@ Precipitation score comparison shows that the lower temperature, the highger in 
 
 - Std: June 0.34 Dec 0.54 
 
-Most active stations and counts for June and December and their min, max, and avarage temperature. 
+Most active stations and counts for June and December. 
 
 June: [station_june_count](https://github.com/Yunaka1269/surfs_up/blob/main/New%20folder/station_june.PNG)
 
@@ -55,6 +55,7 @@ December: [station_december_count](https://github.com/Yunaka1269/surfs_up/blob/m
 - USC00519281, 217
 - USC00513117, 216
 
+We may suggest W.Avy the location near station ID:USC00513117 maybe the ideal to open the surf shop based on their min, max, and avarage temperature comparison.
 
 USC00519281:
 
