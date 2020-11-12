@@ -22,30 +22,34 @@ June records the higher min, max, mean temperature and smaller standard deviatio
 
 Precipitation score comparison shows that the lower temperature, the highger in precipitation score in June. December shows that the precipitation scores are high near the mean temperature.
 
-	- Mean: June 0.14 Dec 0.22
+- Mean: June 0.14 Dec 0.22
 
-	- Max: June 4.43 Dec 6.42 
+- Max: June 4.43 Dec 6.42 
 
-	- Min: June 0.00 Dec 0.00 
+- Min: June 0.00 Dec 0.00 
 
-	- Std: June 0.34 Dec 0.54 
+- Std: June 0.34 Dec 0.54 
 
 Most active stations and counts for June and December and their min, max, and avarage temperature. 
 
-June: USC00519397, 236
-      USC00519281, 236
-      USC00513117, 236
+June: 
 
-December: USC00519281, 217
-          USC00513117, 216
+- USC00519397, 236
+- USC00519281, 236
+- USC00513117, 236
+
+December:
+
+- USC00519281, 217
+- USC00513117, 216
 
 
 USC00519281:
 
-	June [65.0, 82.0, 73.27]
-	December [58.0, 79.0, 69.90]
+- June [65.0, 82.0, 73.27]
+- December [58.0, 79.0, 69.90]
 
 USC00513117:
 
-	June [68.0, 83.0, 74.05]
-	December [63.0, 80.0, 71.07]
+- June [68.0, 83.0, 74.05]
+- December [63.0, 80.0, 71.07]
